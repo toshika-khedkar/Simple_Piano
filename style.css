@@ -1,0 +1,29 @@
+body {
+    background: rgb(68, 68, 8);
+}
+
+img {
+    align-items: center;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    border: solid black 2px;
+}
+
+h1 {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    font-style: italic serif;
+    font: cursive;
+    color: chocolate;
+}
+
+h4 {
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    font-style: italic serif;
+    font: cursive;
+    color: chocolate;
+}
